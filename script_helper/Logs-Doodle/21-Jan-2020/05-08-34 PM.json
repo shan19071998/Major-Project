@@ -1,0 +1,10 @@
+{
+  "Time": "21-Jan-2020 17:08:34",
+  "ScriptType": "improved_neural_doodle.py",
+  "ContentFilePath": "",
+  "StyleFilePath": "",
+  "StyleMaskPath": "",
+  "TargetMaskPath": "",
+  "OutputFilePrefix": "",
+  "ParameterList": "--style-image \"\" --style-mask \"\" --target-mask \"\" --target-image-prefix \"\" --nlabels 4 --img_size -1 --content_weight 0.1 --style_weight 1.0 --tv_weight 8.5e-5 --region_style_weight 1. --num_iter 10 --preserve_color \"False\" "
+}

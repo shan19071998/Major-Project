@@ -1,0 +1,24 @@
+{
+  "Time": "21-Jan-2020 17:08:51",
+  "ScriptType": "INetwork.py",
+  "ContentFilePath": "D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\content\\Kinkaku-ji.jpg",
+  "StyleFilePath": "\"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\style\\misty-mood-leonid-afremov.jpg\" ",
+  "OutputFilePrefix": "C:\\Users\\Arun\\Desktop\\abc",
+  "ParameterList": "\"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\content\\Kinkaku-ji.jpg\" \"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\style\\misty-mood-leonid-afremov.jpg\" \"C:\\Users\\Arun\\Desktop\\abc\" --image_size 512 --content_weight 0.025 --style_weight 1.0 --total_variation_weight 8.5E-05 --style_scale 1 --num_iter 10 --rescale_image \"True\" --rescale_method \"bicubic\" --maintain_aspect_ratio \"True\" --content_layer \"conv5_2\" --init_image \"content\" --pool_type \"max\" --preserve_color \"True\" --min_improvement 0 --model \"vgg16\" --content_loss_type 0"
+}
+{
+  "Time": "21-Jan-2020 17:08:51",
+  "ScriptType": "INetwork.py",
+  "ContentFilePath": "D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\content\\Kinkaku-ji.jpg",
+  "StyleFilePath": "\"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\style\\misty-mood-leonid-afremov.jpg\" ",
+  "OutputFilePrefix": "C:\\Users\\Arun\\Desktop\\abc",
+  "ParameterList": "\"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\content\\Kinkaku-ji.jpg\" \"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\style\\misty-mood-leonid-afremov.jpg\" \"C:\\Users\\Arun\\Desktop\\abc\" --image_size 512 --content_weight 0.025 --style_weight 1.0 --total_variation_weight 8.5E-05 --style_scale 1 --num_iter 10 --rescale_image \"True\" --rescale_method \"bicubic\" --maintain_aspect_ratio \"True\" --content_layer \"conv5_2\" --init_image \"content\" --pool_type \"max\" --preserve_color \"True\" --min_improvement 0 --model \"vgg16\" --content_loss_type 0"
+}
+{
+  "Time": "21-Jan-2020 17:08:51",
+  "ScriptType": "INetwork.py",
+  "ContentFilePath": "D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\content\\Kinkaku-ji.jpg",
+  "StyleFilePath": "\"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\style\\misty-mood-leonid-afremov.jpg\" ",
+  "OutputFilePrefix": "C:\\Users\\Arun\\Desktop\\abc",
+  "ParameterList": "\"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\content\\Kinkaku-ji.jpg\" \"D:\\Personal\\Major Project\\Neural-Style-Transfer-master\\images\\inputs\\style\\misty-mood-leonid-afremov.jpg\" \"C:\\Users\\Arun\\Desktop\\abc\" --image_size 512 --content_weight 0.025 --style_weight 1.0 --total_variation_weight 8.5E-05 --style_scale 1 --num_iter 10 --rescale_image \"True\" --rescale_method \"bicubic\" --maintain_aspect_ratio \"True\" --content_layer \"conv5_2\" --init_image \"content\" --pool_type \"max\" --preserve_color \"True\" --min_improvement 0 --model \"vgg16\" --content_loss_type 0"
+}
